@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Nexus local output reports
+Output/
+Desktop/Nexus/Output/
+*.txt
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
